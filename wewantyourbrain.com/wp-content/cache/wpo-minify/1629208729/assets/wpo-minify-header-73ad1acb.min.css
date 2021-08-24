@@ -13111,8 +13111,16 @@ a.skip-link {
 }
 
 @font-face {
+    font-family: Helvetica;
+    src: url(../themes/fonts/Helvetica-Font/Helvetica.ttf) format("ttf");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
     font-family: PlutoCondThin;
-    src: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondThin.woff2) format("woff2"), url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondThin.woff) format("woff");
+    src: url(../themes/fonts/PlutoCond-Font/PlutoCondThin.woff2) format("woff2"), url(../themes/fonts/PlutoCond-Font/PlutoCondThin.woff) format("woff");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -13120,7 +13128,7 @@ a.skip-link {
 
 @font-face {
     font-family: PlutoCondLight-Italic;
-    src: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondLight-Italic.woff2) format("woff2"), url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondLight-Italic.woff) format("woff");
+    src: url(../themes/fonts/PlutoCond-Font/PlutoCondLight-Italic.woff2) format("woff2"), url(../themes/fonts/PlutoCond-Font/PlutoCondLight-Italic.woff) format("woff");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -13128,7 +13136,7 @@ a.skip-link {
 
 @font-face {
     font-family: PlutoCondRegular-Italic;
-    src: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondRegular-Italic.woff2) format("woff2"), url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondRegular-Italic.woff) format("woff");
+    src: url(../themes/fonts/PlutoCond-Font/plutoCondRegular-Italic.woff2) format("woff2"), url(../themes/fonts/PlutoCond-Font/PlutoCondRegular-Italic.woff) format("woff");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -13136,7 +13144,7 @@ a.skip-link {
 
 @font-face {
     font-family: PlutoCondBlack-Italic;
-    src: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondBlack-Italic.woff2) format("woff2"), url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondBlack-Italic.woff) format("woff");
+    src: url(../themes/fonts/PlutoCond-Font/PlutoCondBlack-Italic.woff2) format("woff2"), url(../themes/fonts/PlutoCond-Font/PlutoCondBlack-Italic.woff) format("woff");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -13144,7 +13152,7 @@ a.skip-link {
 
 @font-face {
     font-family: PlutoCondLight;
-    src: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondLight.woff2) format("woff2"), url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondLight.woff) format("woff");
+    src: url(../themes/fonts/PlutoCond-Font/PlutoCondLight.woff2) format("woff2"), url(../themes/fonts/PlutoCond-Font/PlutoCondLight.woff) format("woff");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -13152,7 +13160,7 @@ a.skip-link {
 
 @font-face {
     font-family: PlutoCondBold-Italic;
-    src: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondBold-Italic.woff2) format("woff2"), url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondBold-Italic.woff) format("woff");
+    src: url(../themes/fonts/PlutoCond-Font/PlutoCondBold-Italic.woff2) format("woff2"), url(../themes/fonts/PlutoCond-Font/PlutoCondBold-Italic.woff) format("woff");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -13160,7 +13168,7 @@ a.skip-link {
 
 @font-face {
     font-family: PlutoCondRegular;
-    src: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondRegular.woff2) format("woff2"), url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondRegular.woff) format("woff");
+    src: url(../themes/fonts/PlutoCond-Font/PlutoCondRegular.woff2) format("woff2"), url(../themes/fonts/PlutoCond-Font/PlutoCondRegular.woff) format("woff");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -13168,7 +13176,7 @@ a.skip-link {
 
 @font-face {
     font-family: PlutoBold-Italic;
-    src: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoBold-Italic.woff2) format("woff2"), url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoBold-Italic.woff) format("woff");
+    src: url(../themes/fonts/PlutoCond-Font/PlutoBold-Italic.woff2) format("woff2"), url(../themes/fonts/PlutoCond-Font/PlutoBold-Italic.woff) format("woff");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -13176,7 +13184,7 @@ a.skip-link {
 
 @font-face {
     font-family: PlutoCondBold;
-    src: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondBold.woff2) format("woff2"), url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondBold.woff) format("woff");
+    src: url(../themes/fonts/PlutoCond-Font/PlutoCondBold.woff2) format("woff2"), url(../themes/fonts/PlutoCond-Font/PlutoCondBold.woff) format("woff");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -13184,7 +13192,7 @@ a.skip-link {
 
 @font-face {
     font-family: PlutoCondBlack;
-    src: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondBlack.woff2) format("woff2"), url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondBlack.woff) format("woff");
+    src: url(../themes/fonts/PlutoCond-Font/PlutoCondBlack.woff2) format("woff2"), url(../themes/fonts/PlutoCond-Font/PlutoCondBlack.woff) format("woff");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -14044,8 +14052,8 @@ h6 {
     border-left: 0;
     border-radius: 0;
     background-color: transparent;
-    -webkit-box-shadow: none;
-    -webkit-box-shadow: inset 0 0 12px rgba(0, 0, 0, .3)
+    /* -webkit-box-shadow: none; */
+    /* -webkit-box-shadow: inset 0 0 12px rgba(0, 0, 0, .3) */
 }
 
 .no-scrollbar::-webkit-scrollbar {
@@ -14997,7 +15005,7 @@ body .navbar .want img {
     transform-origin: center;
     color: #fff;
     font-family: PlutoCondLight, Helvetica, Arial, sans-serif;
-    letter-spacing: 11px;
+    letter-spacing: 7px;
     text-transform: uppercase;
     font-size: .875rem
 }
@@ -15618,7 +15626,7 @@ body .navbar .want img {
     top: 40%;
     z-index: 0;
     position: absolute;
-    background-repeat-y: no-repeat;
+    /* background-repeat-y: no-repeat; */
     background-image: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../img/svg/circle-line.svg)
 }
 
@@ -16856,7 +16864,7 @@ body .navbar .want img {
 
 @font-face {
     font-family: PlutoCondThin;
-    src: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondThin.woff2) format("woff2"), url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondThin.woff) format("woff");
+    src: url(../themes/fonts/PlutoCond-Font/plutoCondThin.woff2) format("woff2"), url(../themes/fonts/PlutoCond-Font/plutoCondThin.woff) format("woff");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -16864,7 +16872,7 @@ body .navbar .want img {
 
 @font-face {
     font-family: PlutoCondLight-Italic;
-    src: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondLight-Italic.woff2) format("woff2"), url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondLight-Italic.woff) format("woff");
+    src: url(../themes/fonts/PlutoCond-Font/plutoCondLight-Italic.woff2) format("woff2"), url(../themes/fonts/PlutoCond-Font/plutoCondLight-Italic.woff) format("woff");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -16872,7 +16880,7 @@ body .navbar .want img {
 
 @font-face {
     font-family: PlutoCondRegular-Italic;
-    src: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondRegular-Italic.woff2) format("woff2"), url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondRegular-Italic.woff) format("woff");
+    src: url(../themes/fonts/PlutoCond-Font/plutoCondRegular-Italic.woff2) format("woff2"), url(../themes/fonts/PlutoCond-Font/plutoCondRegular-Italic.woff) format("woff");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -16880,7 +16888,7 @@ body .navbar .want img {
 
 @font-face {
     font-family: PlutoCondBlack-Italic;
-    src: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondBlack-Italic.woff2) format("woff2"), url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondBlack-Italic.woff) format("woff");
+    src: url(../themes/fonts/PlutoCond-Font/plutoCondBlack-Italic.woff2) format("woff2"), url(../themes/fonts/PlutoCond-Font/plutoCondBlack-Italic.woff) format("woff");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -16888,7 +16896,7 @@ body .navbar .want img {
 
 @font-face {
     font-family: PlutoCondLight;
-    src: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondLight.woff2) format("woff2"), url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondLight.woff) format("woff");
+    src: url(../themes/fonts/PlutoCond-Font/plutoCondLight.woff2) format("woff2"), url(../themes/fonts/PlutoCond-Font/plutoCondLight.woff) format("woff");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -16896,7 +16904,7 @@ body .navbar .want img {
 
 @font-face {
     font-family: PlutoCondBold-Italic;
-    src: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondBold-Italic.woff2) format("woff2"), url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondBold-Italic.woff) format("woff");
+    src: url(../themes/fonts/PlutoCond-Font/plutoCondBold-Italic.woff2) format("woff2"), url(../themes/fonts/PlutoCond-Font/plutoCondBold-Italic.woff) format("woff");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -16904,7 +16912,7 @@ body .navbar .want img {
 
 @font-face {
     font-family: PlutoCondRegular;
-    src: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondRegular.woff2) format("woff2"), url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondRegular.woff) format("woff");
+    src: url(../themes/fonts/PlutoCond-Font/plutoCondRegular.woff2) format("woff2"), url(../themes/fonts/PlutoCond-Font/plutoCondRegular.woff) format("woff");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -16912,7 +16920,7 @@ body .navbar .want img {
 
 @font-face {
     font-family: PlutoBold-Italic;
-    src: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoBold-Italic.woff2) format("woff2"), url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoBold-Italic.woff) format("woff");
+    src: url(../themes/fonts/PlutoCond-Font/plutoBold-Italic.woff2) format("woff2"), url(../themes/fonts/PlutoCond-Font/plutoBold-Italic.woff) format("woff");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -16920,7 +16928,7 @@ body .navbar .want img {
 
 @font-face {
     font-family: PlutoCondBold;
-    src: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondBold.woff2) format("woff2"), url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondBold.woff) format("woff");
+    src: url(../themes/fonts/PlutoCond-Font/plutoCondBold.woff2) format("woff2"), url(../themes/fonts/PlutoCond-Font/plutoCondBold.woff) format("woff");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -16928,7 +16936,7 @@ body .navbar .want img {
 
 @font-face {
     font-family: PlutoCondBlack;
-    src: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondBlack.woff2) format("woff2"), url(https://wewantyourbrain.com/wp-content/themes/brains/css/../fonts/PlutoCondBlack.woff) format("woff");
+    src: url(../themes/fonts/PlutoCond-Font/plutoCondBlack.woff2) format("woff2"), url(../themes/fonts/PlutoCond-Font/plutoCondBlack.woff) format("woff");
     font-weight: 400;
     font-style: normal;
     font-display: swap
