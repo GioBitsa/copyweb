@@ -1566,7 +1566,7 @@
         Ef = Math.random();
     Df.M = "GTM-PJFVFP7";
     Df.$c = "8n0";
-    Df.Rg = "ChAI8LGSiQYQ/8Hu4Z6Hr8soEiQAGwtSqnQoRx2997xl1ChK5QANXNbXu07n+RcZ2BFEwRQz9yIaAreN";
+    Df.Rg = "ChEI8NSXiQYQp+Gn6tiwifK2ARIkADXWr3FDGEhqWgbT+c/1YCzKWZ52/nU9vqmeyPETYlNX3Qu/GgJhuw\x3d\x3d";
     var Ff = {
             __cl: !0,
             __ecl: !0,
@@ -3816,16 +3816,9 @@
             this.C = a;
             this.o = b;
             this.s = Va();
-            var c = "x";
-            "function" === typeof m.__tcfapi ? c = "s" : Yk(this.C) ? c = "i" : "function" === typeof m.__cmp ? c = "c" : Sk(m, "__cmpLocator") && (c = "d");
-            this.o.type = c;
         },
-        il = function(a) {
-            void 0 === a.o.loadTime && (a.o.loadTime = Va() - a.s);
-        },
-        jl = function(a) {
-            void 0 !== a.o.loadTime && (a.o.loadTime = 0);
-        },
+        il = function(a) {},
+        jl = function(a) {},
         pl = function() {
             var a = gl(),
                 b = new Wk(m, cl ? 3E3 : -1),
