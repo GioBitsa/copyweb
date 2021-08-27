@@ -18060,7 +18060,23 @@ screen and (max-width:736px) and (orientation:landscape) {
     }
 }
 
-/* custom editing */
+/* ---------- custom editing ---------- */
+
+/* home page */
+
+.testimonials .swiper-container .swiper-slide img{
+    border: none;
+}
+
+/* end of home page */
+
+
+
+/* into page */
+
+.hero-areas .hero__links li{
+    max-width: 500px;
+}
 
 .into-videoWrapper{
     transition: 0.3s;
