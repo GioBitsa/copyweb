@@ -16391,7 +16391,7 @@ body .navbar .want img {
 
 #journey .list_journey .journey_steps::before {
     counter-increment: number;
-    content: counter(number) "Â ";
+    content: counter(number);
     margin-right: .4rem;
     font-size: 3rem;
     color: #582974;
