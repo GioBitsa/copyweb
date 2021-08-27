@@ -18078,6 +18078,11 @@ screen and (max-width:736px) and (orientation:landscape) {
     max-width: 500px;
 }
 
+.aply_area .card_area .card {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
 .into-videoWrapper{
     transition: 0.3s;
 }
