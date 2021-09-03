@@ -18067,57 +18067,6 @@ screen and (max-width:736px) and (orientation:landscape) {
 
 /* home page */
 
-
-/* end of home page */
-
-
-
-/* into page */
-
-.hero-areas .hero__links li{
-    max-width: 500px;
-}
-
-.aply_area .card_area .card {
-    max-width: 700px;
-    margin: 0 auto;
-}
-
-.into-videoWrapper{
-    transition: 0.3s;
-}
-
-.into-page-img{
-    border: none !important;
-    position: relative;
-}
-
-.linkedin {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-    width: 200px;
-    opacity: 0;
-    transition: 0.3s;
-    background-color: white;
-}
-
-.linkedin a img{
-    border: none !important;
-}
-
-.into-videoWrapper:hover .linkedin{
-    opacity: 1;
-}
-
-@media screen and (max-width: 768px){
-    .linkedin{
-        width: 100px;
-    }
-}
-
-
 /* testimonials */
 
 .swiper-wrapper-testimonials{
@@ -18202,3 +18151,67 @@ screen and (max-width:736px) and (orientation:landscape) {
 }
 
 /* end of testimonials */
+
+/* area */
+
+.btn-box{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.downloadButtons {
+    width: 200px;
+    height: 84px;
+}
+
+/* end of area */
+
+/* end of home page */
+
+
+
+/* into page */
+
+.hero-areas .hero__links li{
+    max-width: 500px;
+}
+
+.aply_area .card_area .card {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.into-videoWrapper{
+    transition: 0.3s;
+}
+
+.into-page-img{
+    border: none !important;
+    position: relative;
+}
+
+.linkedin {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 200px;
+    opacity: 0;
+    transition: 0.3s;
+    background-color: white;
+}
+
+.linkedin a img{
+    border: none !important;
+}
+
+.into-videoWrapper:hover .linkedin{
+    opacity: 1;
+}
+
+@media screen and (max-width: 768px){
+    .linkedin{
+        width: 100px;
+    }
+}
