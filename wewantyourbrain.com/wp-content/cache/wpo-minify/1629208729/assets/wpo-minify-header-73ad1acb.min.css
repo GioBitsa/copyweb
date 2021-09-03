@@ -15842,7 +15842,8 @@ body .navbar .want img {
 }
 
 .space {
-    overflow: hidden
+    overflow: hidden;
+    position: relative;
 }
 
 @media (min-width:1200px) {
@@ -18163,6 +18164,12 @@ screen and (max-width:736px) and (orientation:landscape) {
 .downloadButtons {
     width: 200px;
     height: 84px;
+}
+
+.ludope-logo{
+    display: block;
+    width: 70%;
+    margin: 0 auto;
 }
 
 /* end of area */
