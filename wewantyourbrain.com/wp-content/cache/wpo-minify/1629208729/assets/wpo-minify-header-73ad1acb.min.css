@@ -14405,7 +14405,7 @@ body .navbar .want img {
     -webkit-transform: translateX(1rem);
     -ms-transform: translateX(1rem);
     transform: translateX(1rem);
-    background-image: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../img/svg/arrow-primary.svg)
+    background-image: url(../../../../themes/brains/img/svg/arrow-primary.svg)
 }
 
 .menu>div>div>ul>li>a:before {
@@ -14570,7 +14570,7 @@ body .navbar .want img {
 .list>li>a:after {
     content: '';
     width: 17px;
-    background-image: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../img/svg/arrow.svg);
+    background-image: url(../../../../themes/brains/img/svg/arrow.svg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain;
@@ -14643,7 +14643,7 @@ body .navbar .want img {
     width: 17px;
     height: 17px;
     display: inline-block;
-    background-image: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../img/svg/arrow.svg);
+    background-image: url(../../../../themes/brains/img/svg/arrow.svg);
     background-repeat: no-repeat;
     background-position: center center;
     margin-left: 6.25rem;
@@ -14701,7 +14701,7 @@ body .navbar .want img {
 }
 
 .hero__main {
-    background-image: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../img/bg.png);
+    background-image: url(../../../../themes/brains/img/bg.png);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat
@@ -14959,7 +14959,7 @@ body .navbar .want img {
 
 @media (min-width:992px) {
     .hero__main .list>li>a:hover:after {
-        background-image: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../img/svg/next-arrow.svg);
+        background-image: url(../../../../themes/brains/img/svg/next-arrow.svg);
         -webkit-transform: translateX(.5rem);
         -ms-transform: translateX(.5rem);
         transform: translateX(.5rem)
@@ -15481,7 +15481,7 @@ body .navbar .want img {
     background-size: cover;
     position: absolute;
     background-repeat: no-repeat;
-    background-image: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../img/svg/circle-line2.svg)
+    background-image: url(../../../../themes/brains/img/svg/circle-line2.svg)
 }
 
 @media (max-width:992px) {
@@ -15492,7 +15492,7 @@ body .navbar .want img {
 
 .grow {
     position: relative;
-    background-image: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../img/bg2.png);
+    background-image: url(../../../../themes/brains/img/bg2.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover
@@ -15612,7 +15612,7 @@ body .navbar .want img {
     content: '';
     width: 15px;
     height: 15px;
-    background-image: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../img/svg/before.svg);
+    background-image: url(../../../../themes/brains/img/svg/before.svg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
@@ -15622,14 +15622,15 @@ body .navbar .want img {
 .grow:after {
     content: '';
     width: 21px;
-    height: 550px;
+    height: 250px;
     left: 15%;
-    top: 40%;
+    top: 85%;
     z-index: 0;
     position: absolute;
     background-repeat: no-repeat;
     /* background-repeat-y: no-repeat; */
-    background-image: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../img/svg/circle-line.svg)
+    /* background-image: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../img/svg/circle-line.svg) */
+    background-image: url(../../../../themes/brains/img/svg/circle-line3.svg);
 }
 
 @media (max-width:992px) {
@@ -15679,7 +15680,7 @@ body .navbar .want img {
     z-index: 0;
     position: absolute;
     background-repeat: no-repeat;
-    background-image: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../img/svg/circle-line3.svg)
+    background-image: url(../../../../themes/brains/img/svg/circle-line3.svg)
 }
 
 @media (max-width:992px) {
@@ -15809,7 +15810,7 @@ body .navbar .want img {
 .areas .list>li>a:after {
     width: 20px;
     margin-right: 1rem;
-    background-image: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../img/svg/arrow-primary.svg);
+    background-image: url(../../../../themes/brains/img/svg/arrow-primary.svg);
     -webkit-transition: -webkit-transform .5s ease;
     transition: -webkit-transform .5s ease;
     transition: transform .5s ease;
@@ -15837,7 +15838,7 @@ body .navbar .want img {
     -webkit-transform: translateX(1rem);
     -ms-transform: translateX(1rem);
     transform: translateX(1rem);
-    background-image: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../img/svg/arrow.svg)
+    background-image: url(../../../../themes/brains/img/svg/arrow.svg)
 }
 
 .space {
@@ -16131,7 +16132,7 @@ body .navbar .want img {
     width: 17px;
     height: 17px;
     display: inline-block;
-    background-image: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../img/svg/arrow-primary.svg);
+    background-image: url(../../../../themes/brains/img/svg/arrow-primary.svg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain;
@@ -16165,7 +16166,7 @@ body .navbar .want img {
         left: 10%;
         top: 15%;
         position: absolute;
-        background-image: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../img/svg/after-1.svg);
+        background-image: url(../../../../themes/brains/img/svg/after-1.svg);
         background-size: contain;
         background-repeat: no-repeat;
         width: 71px;
@@ -16186,7 +16187,7 @@ body .navbar .want img {
 @media (min-width:992px) {
     #journey .list_journey.left-list .journey_steps:first-child::after {
         content: '';
-        background-image: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../img/svg/laptop.svg);
+        background-image: url(../../../../themes/brains/img/svg/laptop.svg);
         background-repeat: no-repeat;
         display: block;
         background-size: contain;
@@ -16212,7 +16213,7 @@ body .navbar .want img {
 @media (min-width:992px) {
     #journey .list_journey.left-list .journey_steps:nth-child(2)::after {
         content: '';
-        background-image: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../img/svg/hand-write.svg);
+        background-image: url(../../../../themes/brains/img/svg/hand-write.svg);
         background-repeat: no-repeat;
         display: block;
         background-size: contain;
@@ -16243,7 +16244,7 @@ body .navbar .want img {
         left: 3%;
         top: 5%;
         position: absolute;
-        background-image: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../img/svg/after-2.svg);
+        background-image: url(../../../../themes/brains/img/svg/after-2.svg);
         background-size: contain;
         background-repeat: no-repeat;
         width: 92px;
@@ -16255,7 +16256,7 @@ body .navbar .want img {
         right: 15%;
         bottom: 25%;
         position: absolute;
-        background-image: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../img/svg/after-3.svg);
+        background-image: url(../../../../themes/brains/img/svg/after-3.svg);
         background-size: contain;
         background-repeat: no-repeat;
         width: 227px;
@@ -16285,7 +16286,7 @@ body .navbar .want img {
 @media (min-width:992px) {
     #journey .list_journey.right-list .journey_steps:nth-child(1)::after {
         content: '';
-        background-image: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../img/svg/hand-shake.svg);
+        background-image: url(../../../../themes/brains/img/svg/hand-shake.svg);
         background-repeat: no-repeat;
         display: block;
         background-size: contain;
@@ -16314,7 +16315,7 @@ body .navbar .want img {
 @media (min-width:992px) {
     #journey .list_journey.right-list .journey_steps:nth-child(2)::after {
         content: '';
-        background-image: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../img/svg/tv.svg);
+        background-image: url(../../../../themes/brains/img/svg/tv.svg);
         background-repeat: no-repeat;
         display: block;
         background-size: contain;
@@ -16344,7 +16345,7 @@ body .navbar .want img {
 @media (min-width:992px) {
     #journey .list_journey.right-list .journey_steps:nth-child(3)::after {
         content: '';
-        background-image: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../img/svg/cup.svg);
+        background-image: url(../../../../themes/brains/img/svg/cup.svg);
         background-repeat: no-repeat;
         display: block;
         background-size: contain;
@@ -16398,7 +16399,7 @@ body .navbar .want img {
     font-size: 3rem;
     color: #582974;
     font-family: PlutoCondBlack, Helvetica, Arial, sans-serif;
-    background-image: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../img/svg/circle-list.svg);
+    background-image: url(../../../../themes/brains/img/svg/circle-list.svg);
     width: 95px;
     height: 95px;
     display: -webkit-box;
@@ -16486,7 +16487,7 @@ body .navbar .want img {
     }
     #brains .brains_testemonial .video-author.active:before {
         content: '';
-        background-image: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../img/svg/video-active.svg);
+        background-image: url(../../../../themes/brains/img/svg/video-active.svg);
         background-repeat: no-repeat;
         display: block;
         width: 100px;
@@ -17001,12 +17002,12 @@ body.menu-open {
 }
 
 .swiper-button-prev {
-    background-image: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../img/svg/prev-arrow.svg);
+    background-image: url(../../../../themes/brains/img/svg/prev-arrow.svg);
     left: 0
 }
 
 .swiper-button-next {
-    background-image: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../img/svg/next-arrow.svg);
+    background-image: url(../../../../themes/brains/img/svg/next-arrow.svg);
     right: 0
 }
 
