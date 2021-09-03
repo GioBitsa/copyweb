@@ -15627,6 +15627,7 @@ body .navbar .want img {
     top: 40%;
     z-index: 0;
     position: absolute;
+    background-repeat: no-repeat;
     /* background-repeat-y: no-repeat; */
     background-image: url(https://wewantyourbrain.com/wp-content/themes/brains/css/../img/svg/circle-line.svg)
 }
@@ -18065,9 +18066,6 @@ screen and (max-width:736px) and (orientation:landscape) {
 
 /* home page */
 
-.testimonials .swiper-container .swiper-slide img{
-    border: none;
-}
 
 /* end of home page */
 
