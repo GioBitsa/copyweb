@@ -18153,6 +18153,12 @@ screen and (max-width:736px) and (orientation:landscape) {
     margin-bottom: 20px;
 }
 
+.item .content .total-winnings {
+    margin-top: 10px;
+    font-weight: 600;
+    text-align: center;
+}
+
 @media screen and (max-width: 1243px){
     .item {
         flex-direction: column;
