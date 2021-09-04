@@ -13533,13 +13533,14 @@ h6 {
 
 .hero__main-subtitle:not(.primary-color),
 .section-title:not(.primary-color) {
-    color: #dedc00
+    /* color: #dedc00; */
+    color: white;
 }
 
 .primary-color.hero__main-subtitle,
 .primary-color.section-title {
     /* color: #582974; */
-    color: #dedc00;
+    color: white;
 }
 
 .hero__main-subtitle strong,
