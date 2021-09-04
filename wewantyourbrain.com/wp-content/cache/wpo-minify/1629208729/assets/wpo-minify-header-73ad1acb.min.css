@@ -15451,7 +15451,8 @@ body .navbar .want img {
 
 .about__slide-title {
     width: 100%;
-    color: #dedc00;
+    /* color: #dedc00; */
+    color: white;
     font-family: PlutoCondBlack-Italic, Helvetica, Arial, sans-serif;
     text-align: center;
     font-size: 1.75rem;
@@ -15556,7 +15557,8 @@ body .navbar .want img {
 }
 
 .grow__intro-title {
-    color: #dedc00;
+    /* color: #dedc00; */
+    color: white;
     font-family: PlutoCondBlack-Italic, Helvetica, Arial, sans-serif;
     font-size: 1.625rem
 }
@@ -15593,7 +15595,8 @@ body .navbar .want img {
 }
 
 .grow__points li {
-    color: #dedc00;
+    /* color: #dedc00; */
+    color: white;
     font-family: PlutoCondRegular-Italic, Helvetica, Arial, sans-serif
 }
 
