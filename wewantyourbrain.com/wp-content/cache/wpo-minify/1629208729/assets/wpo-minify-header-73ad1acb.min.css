@@ -13538,7 +13538,8 @@ h6 {
 
 .primary-color.hero__main-subtitle,
 .primary-color.section-title {
-    color: #582974
+    /* color: #582974; */
+    color: #dedc00;
 }
 
 .hero__main-subtitle strong,
@@ -14701,10 +14702,12 @@ body .navbar .want img {
 }
 
 .hero__main {
-    background-image: url(../../../../themes/brains/img/bg.png);
+    /* background-image: url(../../../../themes/brains/img/bg.png);
     background-position: center center;
     background-size: cover;
-    background-repeat: no-repeat
+    background-repeat: no-repeat */
+    background: rgb(18,20,61);
+    background: linear-gradient(45deg, rgba(18,20,61,1) 0%, rgba(148,20,77,1) 100%);
 }
 
 @media (min-width:992px) {
@@ -15492,10 +15495,12 @@ body .navbar .want img {
 
 .grow {
     position: relative;
-    background-image: url(../../../../themes/brains/img/bg2.png);
+    /* background-image: url(../../../../themes/brains/img/bg2.png);
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: cover
+    background-size: cover */
+    background: rgb(18,20,61);
+    background: linear-gradient(45deg, rgba(18,20,61,1) 0%, rgba(148,20,77,1) 100%);
 }
 
 .grow .megaphone {
@@ -15734,7 +15739,9 @@ body .navbar .want img {
 }
 
 .areas {
-    background-color: #f9b233
+    /* background-color: #f9b233; */
+    background: rgb(18,20,61);
+    background: linear-gradient(45deg, rgba(18,20,61,1) 0%, rgba(148,20,77,1) 100%);
 }
 
 .areas .seat {
@@ -15784,7 +15791,8 @@ body .navbar .want img {
 }
 
 .areas .list>li>a {
-    color: #582974;
+    /* color: #582974; */
+    color: white;
     font-size: 1.75rem;
     font-family: PlutoCondLight-Italic, Helvetica, Arial, sans-serif;
     -webkit-transition: color .5s ease;
@@ -16963,8 +16971,9 @@ html {
 body {
     font-size: 16px !important;
     /* background-color: #582974; */
-    background: rgb(18,20,61);
-    background: linear-gradient(45deg, rgba(18,20,61,1) 0%, rgba(148,20,77,1) 100%);
+    /* background: rgb(18,20,61); */
+    /* background: linear-gradient(45deg, rgba(18,20,61,1) 0%, rgba(148,20,77,1) 100%); */
+    background-color: #000;
     overflow-x: hidden !important;
     font-family: PlutoCondThin, Helvetica, Arial, sans-serif !important
 }
