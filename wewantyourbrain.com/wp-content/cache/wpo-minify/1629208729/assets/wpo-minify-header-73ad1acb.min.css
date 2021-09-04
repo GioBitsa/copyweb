@@ -16962,7 +16962,9 @@ html {
 
 body {
     font-size: 16px !important;
-    background-color: #582974;
+    /* background-color: #582974; */
+    background: rgb(18,20,61);
+    background: linear-gradient(45deg, rgba(18,20,61,1) 0%, rgba(148,20,77,1) 100%);
     overflow-x: hidden !important;
     font-family: PlutoCondThin, Helvetica, Arial, sans-serif !important
 }
@@ -18104,8 +18106,9 @@ screen and (max-width:736px) and (orientation:landscape) {
 }
 
 .item .content .total-winnings {
+    font-size: 18px;
     margin-top: 10px;
-    font-weight: 600;
+    font-weight: 900;
     text-align: center;
 }
 
