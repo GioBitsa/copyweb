@@ -14204,7 +14204,8 @@ body .navbar .want img {
     border-radius: 5px;
     margin: 6px 0;
     content: '';
-    background-color: #f9b233
+    /* background-color: #f9b233; */
+    background-color: white;
 }
 
 .menu {
