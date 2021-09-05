@@ -15944,8 +15944,11 @@ body .navbar .want img {
 }
 
 .hero-areas .hero__links li.active a {
-    background-color: #dedc00;
-    color: #582974
+    /* background-color: #dedc00; */
+    background: rgb(18,20,61);
+    background: linear-gradient(45deg, rgba(18,20,61,1) 0%, rgba(148,20,77,1) 100%);
+    /* color: #582974; */
+    color: white;
 }
 
 .hero-areas .hero__links li:not(.active) a:hover {
@@ -15955,8 +15958,10 @@ body .navbar .want img {
 
 .hero-areas .hero__links li a {
     padding: .3rem 2rem;
-    border: 1px solid #dedc00;
-    color: #dedc00;
+    /* border: 1px solid #dedc00; */
+    border: 1px solid rgb(18,20,61);
+    /* color: #dedc00; */
+    color: white;
     -webkit-transition: all .4s ease;
     transition: all .4s ease;
     font-size: 1.25rem;
