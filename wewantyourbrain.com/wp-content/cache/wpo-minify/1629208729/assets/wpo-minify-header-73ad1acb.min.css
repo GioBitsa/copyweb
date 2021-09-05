@@ -14133,19 +14133,19 @@ body .navbar {
 }
 
 body .navbar .custom-logo {
-    width: 180px;
+    width: 200px;
     position: relative
 }
 
 @media (min-width:1200px) {
     body .navbar .custom-logo {
-        width: 185px
+        width: 200px;
     }
 }
 
 @media (min-width:1800px) {
     body .navbar .custom-logo {
-        width: 200px
+        width: 250px
     }
 }
 
@@ -14177,7 +14177,8 @@ body .navbar .want img {
 }
 
 .menu-open .navbar-toggler span {
-    background-color: #582974
+    /* background-color: #582974; */
+    background-color: white;
 }
 
 .menu-open .navbar-toggler span:nth-child(1) {
@@ -14280,11 +14281,20 @@ body .navbar .want img {
     transition: opacity .4s ease .4s
 }
 
+.menu-h1{
+    font-family: sans-serif;
+    background: rgb(18,20,61);
+    background: -webkit-linear-gradient(45deg, rgba(18,20,61,1) 0%, rgba(148,20,77,1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
 .menu>div {
     width: 250vw;
     height: 250vw;
     color: #fff;
-    background: #f9b233;
+    /* background: #f9b233; */
+    background: black;
     border-radius: 50%;
     -webkit-transition: all .4s ease;
     transition: all .4s ease;
@@ -15463,7 +15473,7 @@ body .navbar .want img {
 }
 
 .about__img-content {
-    width: 300px;
+    width: 160px;
     height: 120px;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -15476,6 +15486,12 @@ body .navbar .want img {
 .about__img-content img {
     max-width: 100%;
     max-height: 100%
+}
+
+.makeinindia-img{
+    height: 64px;
+    width: 160px;
+    margin-top: 25px;
 }
 
 .about:after {
@@ -15952,8 +15968,11 @@ body .navbar .want img {
 }
 
 .hero-areas .hero__links li:not(.active) a:hover {
-    background-color: #dedc00;
-    color: #582974
+    /* background-color: #dedc00; */
+    background: rgb(18,20,61);
+    background: linear-gradient(45deg, rgba(18,20,61,1) 0%, rgba(148,20,77,1) 100%);
+    /* color: #582974; */
+    color: white;
 }
 
 .hero-areas .hero__links li a {
@@ -16002,7 +16021,7 @@ body .navbar .want img {
 .hero-areas .text-bg__container {
     position: absolute;
     top: 50%;
-    padding: 3rem 7rem;
+    padding: 3rem 5rem;
     font-size: .8125rem;
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
@@ -16373,8 +16392,8 @@ body .navbar .want img {
         display: block;
         background-size: cover;
         background-position: center;
-        width: 140px;
-        height: 275px;
+        width: 150px;
+        height: 300px;
         position: absolute;
         right: 4rem;
         top: 2rem
