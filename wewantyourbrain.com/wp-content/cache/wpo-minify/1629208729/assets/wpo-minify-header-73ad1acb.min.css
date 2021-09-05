@@ -17101,7 +17101,10 @@ body.menu-open {
 }
 
 .cc-window {
-    opacity: 1
+    opacity: 1;
+    background: rgb(18,20,61);
+    background: linear-gradient(45deg, rgba(18,20,61,1) 0%, rgba(148,20,77,1) 100%);
+    color: white;
 }
 
 .cc-animate.cc-revoke {
@@ -17200,7 +17203,8 @@ body.menu-open {
     border-width: 2px;
     border-style: solid;
     text-align: center;
-    white-space: nowrap
+    white-space: nowrap;
+    color: white;
 }
 
 .cc-highlight .cc-btn:first-child:focus,
@@ -17505,7 +17509,12 @@ screen and (max-width:736px) and (orientation:landscape) {
 }
 
 #cc-window.cc-type-categories.cc-floating .cc-compliance .cc-dismiss {
-    float: left
+    float: left;
+}
+
+.cc-dismiss {
+    background-color: transparent !important;
+    color: white !important;
 }
 
 #cc-window.cc-type-categories.cc-floating .cc-compliance .cc-save {
@@ -17578,7 +17587,8 @@ screen and (max-width:736px) and (orientation:landscape) {
 }
 
 #cc-window .cc-message {
-    word-wrap: break-word
+    word-wrap: break-word;
+    color: white;
 }
 
 #cc-window .cc-deny {
@@ -17586,7 +17596,8 @@ screen and (max-width:736px) and (orientation:landscape) {
 }
 
 #cc-window .cc-link {
-    padding-right: 0
+    padding-right: 0;
+    color: white;
 }
 
 #cc-window.cc-center.cc-type-categories .cc-save,
@@ -18155,6 +18166,7 @@ screen and (max-width:736px) and (orientation:landscape) {
     margin-top: 10px;
     font-weight: 900;
     text-align: center;
+    font-family: sans-serif;
 }
 
 @media screen and (max-width: 1243px){
